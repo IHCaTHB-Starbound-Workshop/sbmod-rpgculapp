@@ -4,8 +4,8 @@
 {"op":"remove","path":"/genders/0/pants"},
 {"op":"remove","path":"/genders/1/pants"},
 
-{"op":"add","path":"/genders/0/shirt","value":["aviantier1chest"]},
-{"op":"add","path":"/genders/1/shirt","value":["aviantier1chest"]},
-{"op":"add","path":"/genders/0/pants","value":["aviantier1pants"]},
-{"op":"add","path":"/genders/1/pants","value":["aviantier1pants"]}
+{"op":"add","path":"/genders/0/shirt","value":["apextier1chest","aviantier1chest","florantier1chest","glitchtier1chest","humantier1chest","hylotltier1chest","novatier1chest"]},
+{"op":"add","path":"/genders/1/shirt","value":["apextier1chest","aviantier1chest","florantier1chest","glitchtier1chest","humantier1chest","hylotltier1chest","novatier1chest"]},
+{"op":"add","path":"/genders/0/pants","value":["apextier1pants","aviantier1pants","florantier1pants","glitchtier1pants","humantier1pants","hylotltier1pants","novatier1pants"]},
+{"op":"add","path":"/genders/1/pants","value":["apextier1pants","aviantier1pants","florantier1pants","glitchtier1pants","humantier1pants","hylotltier1pants","novatier1pants"]}
 ]
